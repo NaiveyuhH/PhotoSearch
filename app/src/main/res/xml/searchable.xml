@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="PhotoSearch"
+    android:hint="Search Flickr"
+    android:searchSuggestAuthority="neu.hyh0221.miniflickr.SuggestionProvider"
+    android:searchSuggestSelection=" ?">
+
+</searchable>
